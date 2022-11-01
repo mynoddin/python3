@@ -26,9 +26,9 @@ class Person:
         return '{} can be contacted at {}'.format(self.__name, self.__email)
         
 
-brad = Person("Md Mynoddin", "mynoddin.ict@gmail.com")
+brad = Person("Md Mynoddin", "mynosin@email.com")
 #brad.set_name("Md Mynoddin")
-#brad.set_email("mynoddin.ict@gmail.com")
+#brad.set_email("mynosin@email.com")
 
 print(brad.get_name())
 print(brad.get_email())
